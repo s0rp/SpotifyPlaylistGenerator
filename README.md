@@ -1,5 +1,5 @@
 Planned Features:
-- Analyze all listening data & playlists to know what the user likes and dislikes.
+- Analyze all listening data & playlists to know what the user likes and dislikes
 - AI-powered playlist creation
 - Creating playlists with data provided by Spotify (Like genre, tempo, popularity...)
 - Create daily updated playlists
